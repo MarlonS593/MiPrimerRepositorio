@@ -58,5 +58,4 @@ const arregloNumeros = [ 5000, 4200, 10, 30, 15, 10000 ];
 const arregloNombres = [ "Luis", "Erick", "Diego", "Ana"];
 const arregloMixto = [ 5000, "Luis", 4200, "Erick" ];
 
-
-
+prompt haciendo cambios pull request 
